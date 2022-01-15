@@ -1,0 +1,122 @@
+{
+  "name": "dnd",
+  "title": "Faerûn",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "entity": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-dnd-spells",
+      "package": "world",
+      "path": "packs/ddb-dnd-spells.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "H:\\FoundryVTT  Database\\FoundryVTT\\Data\worlds\\wachter\\packs\\packsddb-dnd-spells.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Items",
+      "name": "ddb-dnd-items",
+      "package": "world",
+      "path": "packs/ddb-dnd-items.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "H:\\FoundryVTT  Database\\FoundryVTT\\Data\\worlds\\wachter\\packs\\ddb-dnd-items.db"
+    },
+    {
+      "entity": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-dnd-monsters",
+      "package": "world",
+      "path": "packs/ddb-dnd-monsters.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "H:\\FoundryVTT  Database\\FoundryVTT\\Data\\worlds\\wachter\\packs\\ddb-dnd-monsters.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-dnd-feats",
+      "package": "world",
+      "path": "packs/ddb-dnd-feats.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "H:\\FoundryVTT  Database\\FoundryVTT\\Data\\worlds\\wachter\\packs\\ddb-dnd-feats.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-dnd-class-features",
+      "package": "world",
+      "path": "packs/ddb-dnd-class-features.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "H:\\FoundryVTT  Database\\FoundryVTT\\Data\\worlds\\wachter\\packs\\ddb-dnd-class-features.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-dnd-classes",
+      "package": "world",
+      "path": "packs/ddb-dnd-classes.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "H:\\FoundryVTT  Database\\FoundryVTT\\Data\\worlds\\wachter\\packs\\ddb-dnd-classes.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-dnd-racial-traits",
+      "package": "world",
+      "path": "packs/ddb-dnd-racial-traits.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "H:\\FoundryVTT  Database\\FoundryVTT\\Data\\worlds\\wachter\\packs\\ddb-dnd-racial-traits.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Races",
+      "name": "ddb-dnd-races",
+      "package": "world",
+      "path": "packs/ddb-dnd-races.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "H:\\FoundryVTT  Database\\FoundryVTT\\Data\\worlds\\wachter\\packs\\ddb-dnd-races.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Override",
+      "name": "ddb-dnd-override",
+      "package": "world",
+      "path": "packs/ddb-dnd-override.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "H:\\FoundryVTT  Database\\FoundryVTT\\Data\\worlds\\wachter\\packs\\ddb-dnd-override.db"
+    },
+    {
+      "entity": "RollTable",
+      "label": "DDB Tables",
+      "name": "ddb-dnd-tables",
+      "package": "world",
+      "path": "packs/ddb-dnd-tables.db",
+      "system": "dnd5e",
+      "private": false
+    }
+  ],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "ifw1keannjw41%20(1).jpg",
+  "coreVersion": "0.8.9",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.5.3"
+}
